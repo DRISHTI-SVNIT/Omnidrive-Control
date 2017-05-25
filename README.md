@@ -9,7 +9,7 @@ Omnidrive control is a project developed by DRISHTI which aims at developing rob
 
 The complete setup of the robot and hardware description can be found here : 
 
-[a link](omnidrivecontrol.readthedocs.io)
+[a link](https://omnidrivecontrol.readthedocs.io)
 
 Please follow it to setup the hardware as well as software for using codes from this repository.
 
