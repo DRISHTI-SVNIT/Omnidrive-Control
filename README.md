@@ -7,11 +7,14 @@ Omnidrive control is a project developed by DRISHTI which aims at developing rob
 
 ## Setup
 
-The complete setup of the robot and hardware description can be found here : omnidrivecontrol.readthedocs.io
+The complete setup of the robot and hardware description can be found here : 
+
+omnidrivecontrol.readthedocs.io
+
 Please follow it to setup the hardware as well as software for using codes from this repository.
 
 ## Commands
->> The project is not ready yet to write this section of readme. As soon as a version is released with command level handling of the chassis to be driven, this will be updated. Currently, the points are manually written in codes and rebuilt and burnt in the onboard computers of the robot.
+> The project is not ready yet to write this section of readme. As soon as a version is released with command level handling of the chassis to be driven, this will be updated. Currently, the points are manually written in codes and rebuilt and burnt in the onboard computers of the robot.
 
 
 # How to contribute?
