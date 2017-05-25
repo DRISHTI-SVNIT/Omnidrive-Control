@@ -19,7 +19,7 @@ Please follow it to setup the hardware as well as software for using codes from 
 ## To learn
 
 This section will just introduce you to the concepts that will be handy in general for working with this repository. 
-**Disclaimer** : With the version changes of the robot the following suggestions might get completely useless as a tool but there is a guarantee of it being useful as a knowledge to understand the methods used in new version. An exact tutorial of things of a particular version shall be incorporated in the [readthedocs link](##Setup).
+**Disclaimer** : With the version changes of the robot the following suggestions might get completely useless as a tool but there is a guarantee of it being useful as a knowledge to understand the methods used in new version. An exact tutorial of things of a particular version shall be incorporated in the [readthedocs link](#setup).
 
 
 If you are a complete newbie to microcontrollers or embedded systems, you can follow this series of mircontroller tutorial videos by Patrick Hood Daniel : https://www.youtube.com/watch?v=JMMamSVy1Zs&list=PLE72E4CFE73BD1DE1
