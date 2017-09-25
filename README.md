@@ -2,6 +2,7 @@
 
 Omnidrive control is a project developed by DRISHTI which aims at developing robust open loop as well as closed loop control over an omnidrive chassis. It also aims at designing and developing systems that are able enough to drive a chassis with known configuration in a straight line, go to rendezvous points, control heading as per required and follow any pattern of path. This repository does not deal with path planning.
 
+Complete documentation link : http://omnidrivecontrol.readthedocs.io/en/latest/
 
 # Installation
 
